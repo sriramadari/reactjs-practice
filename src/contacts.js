@@ -1,24 +1,25 @@
 const contacts = [
   {
-    name: "Beyonce",
+    name: "Cringe Karun",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+      "https://tse1.mm.bing.net/th?id=OIP.fvtL67PWaqydGCQq4hs-9AHaE7&pid=Api&P=0",
     phone: "+123 456 789",
-    email: "b@beyonce.com"
+    email: "cringe@karun.com",
   },
   {
-    name: "Jack Bauer",
+    name: "Ashu Bhai",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
-    phone: "+987 654 321",
-    email: "jack@nowhere.com"
+      "https://tse1.mm.bing.net/th?id=OIP.PeALbkP27W2_ELRcOfwx8wHaFj&pid=Api&P=0",
+
+    phone: "+420 420 420",
+    email: "bhai@nowhere.com",
   },
   {
-    name: "Chuck Norris",
+    name: "Divlover Sanjay",
     imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
-    phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
-  }
+      "https://tse3.mm.bing.net/th?id=OIP.7rohVkxFTv-pWgyCJVONwgHaFj&pid=Api&P=0",
+    phone: "+143 143 143",
+    email: "sanajay@div.com",
+  },
 ];
 export default contacts;
